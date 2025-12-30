@@ -2,6 +2,9 @@
 
 Simple CRUD application for managing customer data.
 
+
+![App Screenshot](./screenshot.png)
+
 ## Features
 - Add new customers
 - Edit existing customers

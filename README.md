@@ -15,5 +15,5 @@ Simple CRUD application for managing customer data.
 - shadcn/ui
 
 ## Run
-npm install
-npm run dev
+- npm install
+- npm run dev

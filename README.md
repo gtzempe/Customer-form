@@ -3,7 +3,7 @@
 Simple CRUD application for managing customer data.
 
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](/public/Page.png)
 
 ## Features
 - Add new customers
